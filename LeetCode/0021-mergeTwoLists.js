@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
 const mergeTwoLists = (list1, list2) => {
   let mergeList = new ListNode()
   let node = mergeList
