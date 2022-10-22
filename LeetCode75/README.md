@@ -6,8 +6,8 @@
 | Day 1  | 724   | [Find_Pivot_Index]        | 131          | 44.9              |
 | Day 2  | 205   | [Isomorphic_Strings]      | 114          | 46.5              |
 | Day 2  | 392   | [Is_Subsequence]          | 94           | 42.8              |
-| Day 3  |       | []                        |              |                   |
-| Day 3  |       | []                        |              |                   |
+| Day 3  | 21    | [Merge_Two_Sorted_Lists]  | 132          | 44.6              |
+| Day 3  | 206   | [Reverse_Linked_List]     | 130          | 45.1              |
 | Day 4  |       | []                        |              |                   |
 | Day 4  |       | []                        |              |                   |
 | Day 5  |       | []                        |              |                   |
@@ -38,3 +38,5 @@
 [Running_Sum_Of_1d_Array]: ./1480-Running_Sum_of_1d_Array
 [Isomorphic_Strings]: ./205-Isomorphic_Strings
 [Is_Subsequence]: ./392-Is_Subsequence
+[Merge_Two_Sorted_Lists]: ./21-Merge_Two_Sorted_Lists/
+[Reverse_Linked_List]: ./206-Reverse_Linked_List/
