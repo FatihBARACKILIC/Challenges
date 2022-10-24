@@ -34,11 +34,11 @@
 | Day 15 |       | []                          |              |                   |
 
 <!-- Links -->
-[Find_Pivot_Index]: ./724-Find_Pivot_Index
+[Find_Pivot_Index]: ./0724-Find_Pivot_Index
 [Running_Sum_Of_1d_Array]: ./1480-Running_Sum_of_1d_Array
-[Isomorphic_Strings]: ./205-Isomorphic_Strings
-[Is_Subsequence]: ./392-Is_Subsequence
-[Merge_Two_Sorted_Lists]: ./21-Merge_Two_Sorted_Lists/
-[Reverse_Linked_List]: ./206-Reverse_Linked_List/
-[Middle_of_the_Linked_List]: ./876-Middle_of_the_Linked_List/
-[Linked_List_Cycle_II]: ./142-Linked_List_Cycle_II/
+[Isomorphic_Strings]: ./0205-Isomorphic_Strings
+[Is_Subsequence]: ./0392-Is_Subsequence
+[Merge_Two_Sorted_Lists]: ./0021-Merge_Two_Sorted_Lists/
+[Reverse_Linked_List]: ./0206-Reverse_Linked_List/
+[Middle_of_the_Linked_List]: ./0876-Middle_of_the_Linked_List/
+[Linked_List_Cycle_II]: ./0142-Linked_List_Cycle_II/
